@@ -15,9 +15,11 @@ p {
   font-family: 'Inter', sans-serif;
   color: #1a2a30;
   letter-spacing: -0.03em;
+  margin-left: 20px;
   font-weight: 400;
   font-size: 20px;
 }
 .div-1{
     background-color: #EBEBEB;
 }
+
