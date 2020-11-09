@@ -15,10 +15,17 @@
   </div>
 </div>
   <br>
-  Fill out the form below to apply.
+  <div style="padding-left:20px">
+  <h1>Apply Now!</h1>
+  <p> To apply please send your application materials in pdf form to hannah.bossi@yale.edu.</p>
+</div>
+<div style="padding-left:20px">
+  <h1>Application Materials!</h1>
+
+</div>
   </body>
 <div class="footer">
  <hr style="color:#EBEBEB">
- <p> &copy; 2020 Hannah Bossi </p>
+ <p style = "font-size:12px"/> &copy; 2020 Hannah Bossi </p>
 </div>
 </html>
