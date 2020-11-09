@@ -14,7 +14,11 @@
     <link href="../css/styles.css" rel="stylesheet" type="text/css">
   </div>
 </div>
-
+  <br>
   Fill out the form below to apply.
   </body>
+<div class="footer">
+ <hr style="color:#EBEBEB">
+ <p> &copy; 2020 Hannah Bossi </p>
+</div>
 </html>

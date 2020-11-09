@@ -18,7 +18,7 @@ body {
 
 .header {
   overflow: hidden;
-  background-color: #f1f1f1;
+  background-color: #EBEBEB;
   padding: 20px 10px;
 }
 
@@ -74,5 +74,15 @@ p {
 }
 .div-1{
     background-color: #EBEBEB;
+}
+.footer {
+  position: fixed;
+  font-size: 12px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  color: white;
+  text-align: center;
 }
 

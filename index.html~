@@ -3,11 +3,14 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-* {box-sizing: border-box;}
+* {box-sizing: border-box;} 
 
 body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  color: #1a2a30;
+  letter-spacing: -0.03em;
+  font-weight: 400;
+  font-size: 20px;
 }
 
 .header {
@@ -20,7 +23,7 @@ body {
   float: left;
   color: black;
   text-align: center;
-  padding: 12px;
+  padding: 12px; 
   text-decoration: none;
   font-size: 18px;
   line-height: 25px;
@@ -28,6 +31,11 @@ body {
 }
 
 .header a.logo {
+  font-family: 'Inter', sans-serif;
+  color: #1a2a30;
+  letter-spacing: -0.03em;
+  font-weight: 400;
+  font-size: 20px;
   font-size: 25px;
   font-weight: bold;
 }
@@ -46,6 +54,17 @@ body {
   float: right;
 }
 
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  color: #1a2a30;
+  text-align: center;
+}
+
+
 @media screen and (max-width: 500px) {
   .header a {
     float: none;
@@ -58,9 +77,9 @@ body {
   }
 }
 </style>
+
 </head>
 <body>
-
 <div class="header">
   <a href="#default" class="logo">CompanyLogo</a>
   <div class="header-right">
@@ -75,6 +94,9 @@ body {
   <h1>Our Mission</h1>
   <p>We believe that a diverse set of ideas, backgrounds, and experiences is critical in any initiative to advance knowledge. STEM fields show a well-documented lack of diversity, particularly for women and gender minority students. This underrepresentation is especially prominent for students who identify with multiple minority groups. Through this scholarship, we aim to support passionate and skilled students who not only demonstrate potential to excel in STEM fields, but also exhibit an aptitude for continuing our mission of bringing much needed diversity to their discipline. </p>
 </div>
-
 </body>
+<div class="footer">
+ <hr style="color:#EBEBEB"> 
+ <p> &copy; 2020 Hannah Bossi </p>
+</div>
 </html>
