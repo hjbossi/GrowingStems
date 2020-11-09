@@ -6,9 +6,9 @@ body {
   font-size: 20px;
 }
 
-h1 {
-  color: white;
-  text-align: center;
+h1{
+  color: #1a2a30;
+  text-align: left;
 }
 
 body {
@@ -83,5 +83,8 @@ p {
   background-color: white;
   color: white;
   text-align: center;
+  margin-top: 40px; 
+  padding-top: 20px;
+
 }
 
